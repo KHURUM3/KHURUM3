@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**KHURUM3/KHURUM3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xOiZ0JNqVl2OOqLcxP/giphy.gif" width="300"/>
+</div>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=KHURUM3&style=flat-square&color=blueviolet" alt=""/>
+  <h1>
+  WELCOME BACK
+  <img src="https://media.giphy.com/media/xUOxfkr0NhitRfOJhK/giphy.gif" width="60px"/>
+</h1>
+</div>
