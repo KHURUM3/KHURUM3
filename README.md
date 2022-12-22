@@ -37,3 +37,10 @@ In my free time I study astrophysics. I want to unite my love for stars and arti
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" alt="linux" width="100" height="100"/>
 </div>
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KHURUM3&theme=dark&background=000000)](https://git.io/streak-stats)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHURUM3)](https://github.com/anuraghazra/github-readme-stats)
