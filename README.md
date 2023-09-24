@@ -15,7 +15,7 @@
 
 ---
 My name is Christina,
-I am a Python Developer from Russia. I am interested in everything related to machine learning.
+I am a Python Developer from Russia. I am interested in everything related to Linux.
 ---
 
 ---
